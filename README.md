@@ -10,4 +10,4 @@ The AppTest.java class has a:
 
 After each test is executed, it takes a screenshot of the result and saves it into target > screenshots
 
-Execute the testng.xml file as a TestNg suite
+You might use Eclipse IDE, and execute the testng.xml file as a TestNg suite
