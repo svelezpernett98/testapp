@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="username" value="saniagovp16-qr6c@force.com"></parameter>
+	<parameter name="password" value="testsfpass1"></parameter>
+  <test name="Test">
+    <classes>
+      <class name="com.salesforce.test.testapp.AppTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

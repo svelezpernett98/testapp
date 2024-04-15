@@ -1,0 +1,2 @@
+browser=chrome
+url=https://inspiration-dream-7014.my.salesforce.com/
